@@ -1,0 +1,111 @@
+     clear ()>> bars function cleared
++ a1 = 123
+ + a1 >> 1
+- AI >> -1
+* AI >> 0
+/AI >> 0
+          Clear () >> vars & function's cleared ("x = 10");
+3* x >> 30 y = 3
+  ("1.5 * x * y >> 45")
+1. 5 * x' /z >>
+               java. lang. Numbers Format Exceptions: for input string "x, y, z" 1 + (2+x) * 4 >> 49
+ a = 123   a >> 123
+b = 456    b >> 456
+ c = 789   c >> 789
+              ("memory")
+variable's definition
+π = 3.14159265358979
+pi = 3.14159265358979
+e = 2.718281828455905
+a = 123
+b = 456
+c = 789
+           ("function's Definitions") ("variable's definition")
+π = 3.1415926538979
+pi = 3.1415926538979
+e = 2.71828182845905
+c = 299792458
+q = 1.602176565 E-19
+G = 6.67384 E-11
+h = 4.135667662 E-15
+h = 6.582119514 E-16
+k = 8.6173324 E-5
+NA = 6.022140857 E-23
+me = 9.10938291 E-31
+     Mp = 1.672621777 E-27
+   Mn = 1.674927351 E-27
+Eó = 8.854187817 E-12
+ץ0 = π* 4 E-7
+aó = 5.2917721092 E-11
+         ("function definition")
+f (1) = 1
+f (2) = 1
+f (n) = f (n-1)+(n-2)
+f (3) >> 2
+f (10) >> 55
+f (50) >> 12586269025
+f (100) >> 3.54224848179262 E-20
+def f (x):
+if (x) = = 1):
+   return 1
+ else:
+return f (x-1)+ f (x-2)
+a = 1+2+3+4+5+6+7+8+9+10 sq.summ
+(a) >> 385 f (0) = 0
+    f (x) = x * f (x-1)
+f (5)
+! (5)
+      clear () >> vars & function's cleared
+ f (1) = 1
+f (x) = x * f (x-1)
+    f (5) >> 120
+ ! (5) >> 120
+    inv. hyp. DEG.
+          Inv: asin(), acos(), aten()
+        Hyp: sinh(), cosh(), tang()
+           both Inv:-hyp.
+asinh() acosh() atanh();
+Angel (¹'rad; 'deg; 'grad')
++ sin (30)
++ angle (rad)
++ asin (0.5)
++ sinh (0.1)
++ ! (5.5)
++ p (5,2)
++ p (5,2.1)
++ c (5,2)
+          sin (30) >> 0.5
+  angle (rad) >> angle unit = sin 
+(30) >> - 0.9880316240928618
+      angle (deg) >> angle unit =
+asin (0.5) >> 30.0 
+   sinh (0.1) >> 
+= 0.100166750019844003
+  Asking (0.1) >> 
+      0.09983407889920758
+  ! (5) >> 120
+! (5.5) >> 287.8852779055133
+p (5,2) >> 20
+p (5,2.1) >> 20
+c (5,2) >> 10
+       Gauss elimination for
+      3.0,4.0,-5.0,-40
+0.0,0.0, -5782.61, -17.34783
+           ("Answer's")
+(1.o)
+(2.0)
+(3.0)
+          1***
+           2***
+            3***
+             4***
+              5***
+               6***
+                7***
+                 8***
+                  9***
+                   10***
+
+
+
+ 
